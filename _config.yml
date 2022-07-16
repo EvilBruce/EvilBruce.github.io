@@ -1,4 +1,4 @@
-title: Long Haul
+title: Upper To Bound
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://long-haul.netlify.app
@@ -16,9 +16,9 @@ paginate: 5
 navigation:
   - title: Home
     url: /index.html
-  - title: About
+  - title: Way
     url: /about
-  - title: Contact
+  - title: Point
     url: /contact
 
 social:
